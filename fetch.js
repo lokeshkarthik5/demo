@@ -8,7 +8,7 @@ async function fetchPosts() {
         header : 'content/application/json',
         body:JSON.stringify({
           userId:1,
-          email:"janani.k@gmail.com",
+          email:"abc@gmail.com",
           title:"student_detail"
         
             
